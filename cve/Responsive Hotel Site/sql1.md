@@ -76,6 +76,6 @@ Connection: keep-alive
 
 ```
 
-![image-20250104153228228]((https://github.com/Huandtx/cve/raw/main/cve/Responsive%20Hotel%20Site/image-20250104153228228.png))
+![image-20250104153228228](https://github.com/Huandtx/cve/raw/main/cve/Responsive%20Hotel%20Site/image-20250104153228228.png)
 
 ![image-20250104153334813](https://github.com/Huandtx/cve/raw/main/cve/Responsive%20Hotel%20Site/image-20250104153334813.png))
