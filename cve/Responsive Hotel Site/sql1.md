@@ -56,7 +56,7 @@ sec-ch-ua-mobile: ?1
 Connection: keep-alive
 ```
 
-![image-20250104153049848](E:\work\me\cve\cve\Responsive Hotel Site\image-20250104153049848.png)
+![image-20250104153049848](https://github.com/Huandtx/cve/raw/main/cve/Responsive%20Hotel%20Site/image-20250104153049848.png))
 
 ## POC2
 
@@ -76,6 +76,6 @@ Connection: keep-alive
 
 ```
 
-![image-20250104153228228](E:\work\me\cve\cve\Responsive Hotel Site\image-20250104153228228.png)
+![image-20250104153228228]((https://github.com/Huandtx/cve/raw/main/cve/Responsive%20Hotel%20Site/image-20250104153228228.png))
 
-![image-20250104153334813](E:\work\me\cve\cve\Responsive Hotel Site\image-20250104153334813.png)
+![image-20250104153334813](https://github.com/Huandtx/cve/raw/main/cve/Responsive%20Hotel%20Site/image-20250104153334813.png))
