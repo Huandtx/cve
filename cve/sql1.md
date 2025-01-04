@@ -55,7 +55,7 @@ sec-ch-ua-mobile: ?1
 Connection: keep-alive
 ```
 
-[(cve/Travel Management System/image-20250104133254893.png)](https://github.com/Huandtx/cve/raw/main/cve/Travel%20Management%20System/image-20250104133254893.png)
+[![image-20250104133254893](https://github.com/Huandtx/cve/raw/main/cve/Travel%20Management%20System/image-20250104133254893.png)
 
 ## POC2
 
