@@ -94,7 +94,7 @@ Content-Disposition: form-data; name="update"
 
 ```
 
-![image-20250106185502284]((https://github.com/Huandtx/cve/blob/main/cve/Online%20Bike%20Rental%20System/image-20250106185502284.png))
+![image-20250106185502284](https://github.com/Huandtx/cve/blob/main/cve/Online%20Bike%20Rental%20System/image-20250106185502284.png)
 
-![image-20250106185656436]((https://github.com/Huandtx/cve/blob/main/cve/Online%20Bike%20Rental%20System/image-20250106185656436.png))
+![image-20250106185656436](https://github.com/Huandtx/cve/blob/main/cve/Online%20Bike%20Rental%20System/image-20250106185656436.png)
 
